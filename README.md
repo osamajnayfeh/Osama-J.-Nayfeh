@@ -1,4 +1,4 @@
-## 👋 Hi, I'm **Osama Jamal Naifeh**
+## 👋 Hi, I'm **Osama J. Nayfeh**
 
 🎓 A Data Science & Artificial Intelligence graduate  
 🤖 Specialized in **Artificial Intelligence Engineering**  
